@@ -4,4 +4,4 @@
 ---
 
 <p align="center">My main language is JavaScript, but I'm learning Rust as well.</p>
-<p align="center">I also made an <a href="https://github.com/dapper-gh/image-host">image host</a>.</p>
+<p align="center">I also made an image host.</p>
